@@ -1,0 +1,18 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+nav{
+    border: 5px solid;
+    background-color: grey;
+    border: solid;
+}
+form{
+    background-color: #e87676;
+}
+#result
+{  background-color: #e87676;
+}
+
